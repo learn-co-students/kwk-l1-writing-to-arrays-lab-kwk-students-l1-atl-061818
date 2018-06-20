@@ -14,7 +14,11 @@ def change_rainbow_colors
   rainbow_colors[0]="red"
   rainbow_colors[1]="light_red"
   rainbow_colors[2]="light_yellow"
+
   rainbow_colors["red","light_red","light_yellow","green","blue"]
+=======
+  rainbow_colors
+>>>>>>> d51eac25e24f66a356c5d0b1d8d2910822c3146d
 end
 
 def add_colors
